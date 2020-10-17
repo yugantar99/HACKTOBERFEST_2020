@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
+    <a href="https://hacktorberfest.digitalocean.com/">
         <img src="assets/hacktoberfest.svg" width="30%">
     </a>
 </p>
