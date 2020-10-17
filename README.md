@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="Assets/hacktoberfest.svg" width="30%">
+        <img src="assets/hacktoberfest.svg" width="30%">
     </a>
 </p>
 
@@ -8,14 +8,8 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/hacktoberfest-2020-blueviolet" alt="Hacktober Badge"/>
- <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/keshavsingh4522" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
-
-<a href="https://github.com/rahulbollisetty/hacktoberfest2020/pulls"><img src="https://img.shields.io/github/issues-pr/keshavsingh4522/hacktoberfest2020" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/keshavsingh4522/hacktoberfest2020/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/keshavsingh4522/hacktoberfest2020?color=2b9348"></a>
-<a href="https://github.com/keshavsingh4522/hacktoberfest2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/keshavsingh4522/hacktoberfest2020?color=2b9348" alt="License Badge"/></a>
-
+[![GitHub forks](https://img.shields.io/github/forks/rahulbollisetty/HACKTOBERFEST_2020?color=brightgreen)](https://github.com/rahulbollisetty/HACKTOBERFEST_2020/network)
+[![GitHub issues](https://img.shields.io/github/issues/rahulbollisetty/HACKTOBERFEST_2020)](https://github.com/rahulbollisetty/HACKTOBERFEST_2020/issues)
 </div>
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
