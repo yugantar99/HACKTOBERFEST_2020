@@ -36,7 +36,7 @@ Steps for adding your name below
     2. Edit `contributors.md` file
     3. Add your Name also link your github profile
     4. Make pull request
-
+You may add any algorithm, a bot, etc.
 
 ## Contributors
 
