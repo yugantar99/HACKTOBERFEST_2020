@@ -10,8 +10,8 @@
   
 [![GitHub forks](https://img.shields.io/github/forks/rahulbollisetty/HACKTOBERFEST_2020?color=brightgreen)](https://github.com/rahulbollisetty/HACKTOBERFEST_2020/network)
 [![GitHub issues](https://img.shields.io/github/issues/rahulbollisetty/HACKTOBERFEST_2020)](https://github.com/rahulbollisetty/HACKTOBERFEST_2020/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/rahulbollisetty/HACKTOBERFEST_2020)]
-[![Github All Contributors](https://img.shields.io/github/all-contributors/rahulbollisetty/HACKTOBERFEST_2020)]
+![GitHub pull requests](https://img.shields.io/github/issues-pr/rahulbollisetty/HACKTOBERFEST_2020)
+![Github All Contributors](https://img.shields.io/github/all-contributors/rahulbollisetty/HACKTOBERFEST_2020)
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
 
