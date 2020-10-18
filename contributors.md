@@ -1,3 +1,3 @@
-| B Rahul           | [@rahulbollisetty](https://github.com/rahulbollisetty)        |
-
-Giovanni Miccio    | https://github.com/J0hnnyGee|
+| B Rahul           | [@rahulbollisetty](https://github.com/rahulbollisetty)         |                                                                                                                                                            
+|Giovanni Miccio    | https://github.com/J0hnnyGee                                   |
+|Katie Ring         | [@katie-ring](https://github.com/katie-ring)                   |
