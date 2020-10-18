@@ -1,4 +1,7 @@
 <p align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
     <a href="https://hacktorberfest.digitalocean.com/">
         <img src="assets/hacktoberfest.svg" width="30%">
     </a>
@@ -41,6 +44,18 @@ You may add any algorithm, a bot, etc.
 ## Contributors
 
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/J0hnnyGee"><img src="https://avatars2.githubusercontent.com/u/61202910?v=4" width="100px;" alt=""/><br /><sub><b>J0hnnyGee</b></sub></a><br /><a href="https://github.com/rahulbollisetty/HACKTOBERFEST_2020/commits?author=J0hnnyGee" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
